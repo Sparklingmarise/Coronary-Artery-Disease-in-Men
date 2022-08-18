@@ -39,13 +39,13 @@ The data was first explored for the value counts for the outcome of 6611 patient
      
      - The glucose concentration for the middle aged, elderly, and senile men was high for those with cad compared to the juveniles, young and long livers with or without CAD.
 
-    -Any man at any age category with or without CAD can spend similar number of days in the icu except for the juveniles with CAD.
+    - Any man at any age category with or without CAD can spend similar number of days in the icu except for the juveniles with CAD.
 
-    -The juveniles and the young have no report of CAD and diabetes while the middle, elderly, senile and long livers may be diabetic. Although, there are males in the elderly and senile categories that do not have CAD but are diabetic while in both the middle and long livers, there males that do not have both CAD and diabetes.
+    - The juveniles and the young have no report of CAD and diabetes while the middle, elderly, senile and long livers may be diabetic. Although, there are males in the elderly and senile categories that do not have CAD but are diabetic while in both the middle and long livers, there males that do not have both CAD and diabetes.
 
-    -The juveniles and the young have no report of hypertension and diabetes while the middle, elderly, senile and long livers are diabetic and hypertensive. Also, the elderly and elderly can be diabetic and not hypertensive. Similarly, there can be diabetic males without hypertension among the senile and long liver category.
+    - The juveniles and the young have no report of hypertension and diabetes while the middle, elderly, senile and long livers are diabetic and hypertensive. Also, the elderly and elderly can be diabetic and not hypertensive. Similarly, there can be diabetic males without hypertension among the senile and long liver category.
 
-    -Every male with CAD is hypertensive but its degree is lower in juveniles. But the Senile with no cad can also be hypertensive.
+    - Every male with CAD is hypertensive but its degree is lower in juveniles. But the Senile with no cad can also be hypertensive.
 
 
 
